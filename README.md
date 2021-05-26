@@ -1,4 +1,4 @@
-# Awesome computer science and technology materials
+# awesomeKnowledge
 
 ![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
 
