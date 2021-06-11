@@ -23,3 +23,4 @@
   - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial): CMake中文实战教程, 在线阅读 [brightxiaohan.github.io/CMakeTutorial/](https://brightxiaohan.github.io/CMakeTutorial/)
   - [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1): Effective Modern CMake
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field): Halfrost-Field 冰霜之地
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go): Solutions to LeetCode by Go, 100% test coverage, runtime beats 100%
