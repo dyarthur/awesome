@@ -22,3 +22,4 @@
   - [Lellansin/cmake-tutorial-cn](https://github.com/Lellansin/cmake-tutorial-cn): 官方 Cmake tutorial 中文版翻译, 在线阅读 [lellansin.gitbooks.io/cmake/content/](https://lellansin.gitbooks.io/cmake/content/)
   - [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial): CMake中文实战教程, 在线阅读 [brightxiaohan.github.io/CMakeTutorial/](https://brightxiaohan.github.io/CMakeTutorial/)
   - [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1): Effective Modern CMake
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field): Halfrost-Field 冰霜之地
