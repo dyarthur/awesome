@@ -35,5 +35,5 @@
 - [Obooko](https://www.obooko.com/)
 - [ManyBooks](https://manybooks.net/)
 - [FreeBookSpot](http://www.freebookspot.club/)
-- [The Anarchist Library](The Anarchist Library)
+- [The Anarchist Library](https://theanarchistlibrary.org/)
 
