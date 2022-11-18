@@ -24,3 +24,16 @@
   - [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1): Effective Modern CMake
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field): Halfrost-Field 冰霜之地
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go): Solutions to LeetCode by Go, 100% test coverage, runtime beats 100%
+
+## Alternative Libraries / Free eBook Hosts
+[Z-Library](https://1lib.domains/): U.S. Authorities Seize Z-Library Domain Names. In case you missed it a unique to z-lib (deduped against LibGen) backup was made and published by u/pilimi_anna a little over a month ago. While you did a great job with SciHub, there's still work be done to ensure the preservation of all written works and cultural heritage. So here is the 5,998,794 book 27.8TB z-lib archive for you to hold, hoard, preserve, seed and proliferate. [Database](https://archive.org/download/pilimi-zlib-meta/pilimi-zlib2-index-2022-08-24-fixed.sql.gz) | [Mirror](https://the-eye.eu/pilimi-zlib2-index-2022-08-24-fixed.sql.gz) ~ (metadata, extensions), [Torrents](https://archive.org/download/pilimi-zlib-meta/pilimi-zlib-torrents.zip) | [Mirror](https://the-eye.eu/pilimi-zlib-torrents.zip) | [TOR Mirror](http://2urmf2mk2dhmz4km522u4yfy2ynbzkbejf2cvmpcbzhpffvcuksrz6ad.onion/zlib-downloads.html) - [Z-Library isn't really gone, but that maybe up to you](https://www.reddit.com/r/DataHoarder/comments/ymiwzs/zlibrary_isnt_really_gone_but_that_maybe_up_to_you/).
+[OpenLibrary](https://openlibrary.org/)
+[Library Genesis](https://libgen.is/) | [IPFS](https://libgen-crypto.ipns.dweb.link/)
+[PDF Drive](https://www.pdfdrive.com/)
+[Sci-Hub](https://sci-hub.hkvisa.net/)
+[Gutenberg](https://www.gutenberg.org/)
+[Obooko](https://www.obooko.com/)
+[ManyBooks](https://manybooks.net/)
+[FreeBookSpot](http://www.freebookspot.club/)
+[The Anarchist Library](The Anarchist Library)
+
