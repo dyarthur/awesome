@@ -24,6 +24,10 @@
   - [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1): Effective Modern CMake
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field): Halfrost-Field 冰霜之地
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go): Solutions to LeetCode by Go, 100% test coverage, runtime beats 100%
+- [0voice](https://github.com/orgs/0voice/repositories?type=all): 整理it资料的百科全库
+  - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang): 最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+  - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki): linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+
 
 ## Alternative Libraries / Free eBook Hosts
 - [Z-Library](https://1lib.domains/): U.S. Authorities Seize Z-Library Domain Names. In case you missed it a unique to z-lib (deduped against LibGen) backup was made and published by u/pilimi_anna a little over a month ago. While you did a great job with SciHub, there's still work be done to ensure the preservation of all written works and cultural heritage. So here is the 5,998,794 book 27.8TB z-lib archive for you to hold, hoard, preserve, seed and proliferate. [Database](https://archive.org/download/pilimi-zlib-meta/pilimi-zlib2-index-2022-08-24-fixed.sql.gz) | [Mirror](https://the-eye.eu/pilimi-zlib2-index-2022-08-24-fixed.sql.gz) ~ (metadata, extensions), [Torrents](https://archive.org/download/pilimi-zlib-meta/pilimi-zlib-torrents.zip) | [Mirror](https://the-eye.eu/pilimi-zlib-torrents.zip) | [TOR Mirror](http://2urmf2mk2dhmz4km522u4yfy2ynbzkbejf2cvmpcbzhpffvcuksrz6ad.onion/zlib-downloads.html) - [Z-Library isn't really gone, but that maybe up to you](https://www.reddit.com/r/DataHoarder/comments/ymiwzs/zlibrary_isnt_really_gone_but_that_maybe_up_to_you/).
