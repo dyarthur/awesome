@@ -15,6 +15,7 @@
 - [huihut/CS-Books](https://github.com/huihut/CS-Books/tree/master): Computer Science Books 计算机技术类书籍 PDF
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): 免费的编程中文书籍索引
 - [KeKe-Li/books](https://github.com/KeKe-Li/books): 编程书籍的整理和收集
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！
 - [JacksonTian/fks](https://github.com/JacksonTian/fks): 前端知识结构
 - [CMake](https://github.com/onqtam/awesome-cmake): Build, test, and package software
   - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake): A curated list of awesome CMake resources, scripts, modules and examples
