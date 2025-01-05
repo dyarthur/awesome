@@ -6,6 +6,7 @@
 
 ## Content
 
+- [System Design Primer](https://github.com/donnemartin/system-design-primer): 学习如何设计大型系统, 为系统设计的面试做准备
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 语言资源大全中文版
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn): Python 资源大全中文版
 - [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): JavaScript 资源大全中文版
